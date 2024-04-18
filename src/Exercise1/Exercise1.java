@@ -1,9 +1,11 @@
+package Exercise1;
+
 import java.io.*;
 
 public class Exercise1 {
     public static void main(String[] args) {
         final int divisor = 10;
-        try(BufferedReader br = new BufferedReader(new FileReader("src/Book1.csv"));
+        try(BufferedReader br = new BufferedReader(new FileReader("src/Exercise1/Book1.csv"));
             BufferedWriter bw = new BufferedWriter(new FileWriter("stats.txt")))
         {
             String line = br.readLine();
