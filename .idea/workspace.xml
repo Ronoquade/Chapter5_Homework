@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1bc9ba1-2c85-47ac-889a-d6e68988e613" name="Changes" comment="">
+    <list default="true" id="f1bc9ba1-2c85-47ac-889a-d6e68988e613" name="Changes" comment="initital commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise1/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise1/Exercise1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/Poem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise2/Poem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercise3/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise3/Exercise3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise3/poem2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise3/poem2.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,7 @@
       <recent name="$PROJECT_DIR$/src/Exercise1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Poem">
+  <component name="RunManager" selected="Application.Exercise3">
     <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercise1.Exercise1" />
       <module name="Chapter5_Homework" />
@@ -84,9 +81,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise3" />
         <item itemvalue="Application.Poem" />
         <item itemvalue="Application.Exercise1" />
-        <item itemvalue="Application.Exercise3" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +96,18 @@
       <option name="presentableId" value="Default" />
       <updated>1713113296727</updated>
     </task>
+    <task id="LOCAL-00001" summary="initital commit">
+      <created>1713470576996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713470576996</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initital commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initital commit" />
   </component>
 </project>
